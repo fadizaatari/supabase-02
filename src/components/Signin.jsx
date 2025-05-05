@@ -37,7 +37,7 @@ const Signin = () => {
     <div className="fixed top-0 left-0 h-screen w-screen flex justify-center items-center p-10 bg-black text-white rounded-md text-lg">
       <div className="bg-gray-800 p-6 rounded-md shadow-md">
         <form onSubmit={handleSignIn}>
-          <h2 className="font-bold pb-2 ">Sign in..</h2>
+          <h2 className="font-bold pb-2 ">Sign inxx</h2>
           <p>
             Don't have an account yet? <Link to="/signup">Sign up</Link>
           </p>
